@@ -3,10 +3,43 @@
     <title>Abhishek&#x27;s Blog</title>
     <link href="https://abhishekchoudhary.com/blog/feed.xml" rel="self" />
     <link href="https://abhishekchoudhary.com/blog" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2020-08-27T22:26:59+05:30</updated>
     <author>
         <name>Abhishek Choudhary</name>
     </author>
     <id>https://abhishekchoudhary.com/blog</id>
 
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Abhishek Choudhary</name>
+        </author>
+        <link href="https://abhishekchoudhary.com/blog/bangalore-pt1.html"/>
+        <id>https://abhishekchoudhary.com/blog/bangalore-pt1.html</id>
+
+        <updated>2020-08-27T22:22:47+05:30</updated>
+            <summary>
+                <![CDATA[
+                    The first plane window from the first smartphone!Work days in Bangalore, 2012Bangalore skies, 2012Internship collage
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/blog/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991.jpeg" ><img src="https://abhishekchoudhary.com/blog/media/posts/1/gallery/64EC9A14-C7A8-412D-A53E-81A4B8199991-thumbnail.jpeg" alt="first-plane" width="720" height="405"></a>
+<figcaption class="gallery-description">The first plane window from the first smartphone!</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/blog/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0.jpeg" ><img src="https://abhishekchoudhary.com/blog/media/posts/1/gallery/BD59EF81-6542-4154-968B-C8DA47557DF0-thumbnail.jpeg" alt="bangalore-intership-work" width="720" height="405"></a>
+<figcaption class="gallery-description">Work days in Bangalore, 2012</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/blog/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C.jpeg" ><img src="https://abhishekchoudhary.com/blog/media/posts/1/gallery/2C9F73E2-F53D-4ACC-AD50-BB41005DBF1C-thumbnail.jpeg" alt="bangalore-sky" width="720" height="405"></a>
+<figcaption class="gallery-description">Bangalore skies, 2012</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://abhishekchoudhary.com/blog/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c.jpeg" ><img src="https://abhishekchoudhary.com/blog/media/posts/1/gallery/F768266B-2463-4115-BCC6-D4F4EFA17070_4_5005_c-thumbnail.jpeg" alt="althea-collage" width="640" height="360"></a>
+<figcaption class="gallery-description">Internship collage</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
 </feed>
