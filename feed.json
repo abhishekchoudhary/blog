@@ -11,6 +11,26 @@
     },
     "items": [
         {
+            "id": "https://abhishekchoudhary.com/blog/stop-leeching-me-to-fuel-your-growth.html",
+            "url": "https://abhishekchoudhary.com/blog/stop-leeching-me-to-fuel-your-growth.html",
+            "title": "Stop leeching me to fuel your growth",
+            "summary": "It's pretty damn tiring. Businesses treat consumer attention as a free, renewable, and possibly unlimited resource. Everything about modern funnels&hellip;",
+            "content_html": "<p>It's pretty damn tiring.</p>\n<p>Businesses treat consumer attention as a free, renewable, and possibly unlimited resource. Everything about modern funnels is set up to \"convert\" a user once they reach the \"top of your funnel\". Corporations have collectively decided that bombarding us with new \"limited\" offers in a marketing arms race is okay and no one wants to draw the shortest straw. But there are two equally chilling possibilities here:<br>a.) Human attention is renewable and unlimited, like the wind (so they'll never stop)<br>b.) Human attention is renewable but limited, like a battery (so they'll grind you down)</p>\n<p>Let me state my bias upfront - anecdotally and as per my own lived experience, I think it is the latter. As a self-proclaimed man of science, this is what I put forth as my hypothesis for my reader - I believe cognitive overload and unnecessary overuse will noticeably reduce the average person's capacity within our lifetimes, if it hasn't already (hot topic of debate, see peer-reviewed research <a href=\"https://www.nature.com/articles/s41467-019-09311-w\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> and <a href=\"https://www.kcl.ac.uk/news/are-attention-spans-really-collapsing-data-shows-uk-public-are-worried-but-also-see-benefits-from-technology\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>, or look at some semi-correct pictures <a href=\"https://www.wyzowl.com/human-attention-span/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> which are criticized <a href=\"https://www.bbc.com/news/health-38896790\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>).</p>\n<p>I am someone who receives upwards of 100+ non-work notifications per day. By all accounts, this is normal for someone whose life revolves around tech or tech-enabled businesses. Every day, I get try-hard notifications from \"Zomato\" telling me why today is just the perfect day to order food instead of cooking, fake-enthusiastic notifications from \"Uber\" telling me how I can save 15 rupees on my next 1000 rupee ride, and \"Google Pay\" just needs me to do something about my \"Indi-Home\" - which I don't understand and intend to keep that way. All of this, and then there are the hundreds of emails every week from services in whose general direction I once glanced - asking me to just log-in right away and bask in the glory of perfection that they have crafted in their tech-Babylon.</p>\n<p>What are my choices? I can't just turn everything off (some I can and have) - because I do actually use the services and when I am actually using them, I receive important pings. Some mails are important and others I try to filter out, although I feel that emails and filter-labels are again an arms race between the consumer and the sender. Most competititors of the services I talk about are just as bad, so switching is not really an option because I suspect the problem is endemic to the industry and maybe the society (wink wink, foreshadowing). I am a paying customer and spend money when I use these services - is my peace also an implicit part of my payment?</p>\n<p>Unfortunately, having been on the other side, I can tell myself and you that this is a hard problem. There is no mega-conspiracy to make Abhishek marginally more uncomfortable in his head. The CEOs do not sit in their office telling people to poke the consumer harder (I hope) - they just have goals to meet which they pass on to shitty middle managers, in whose shitty toolkit you will inevitably find \"we should really look into optimizing our emails\" or \"let's do a notification campaign\".  </p>\n<p>I believe there are a couple of things wrong with this system - first, the constant need for growth that we have placed on ourselves as a society and pushed upon the CEO either implicitly or explicity as an expectation - \"stagnation is death\" and other lies that decades of capitalism has taught us. Secondly, the people who actually are the \"boots on the ground\" seem to think of these tactics as no-brainers before they try to come up with actual ways to improve whatever metric they were looking to improve.</p>\n<p>I reject the idea that bothering comsumers is a no-brainer. Maybe from the company's perspective, it is. You send out a ping for next to no cost, and maybe you get some increased conversions. But a part of the  customer base is losing out. And if the job of a Product Manager really is to be the customer's voice in the room, then I think this is the time for my fellow PMs to join hands and give a shit about customers who don't convert by these antics and are instead harmed by them.</p>\n<p>Fundamentally, it is just people doing an easy thing because nobody has told them explicitly to not do that. The modern world is littered with examples where we allow industry to do unchecked damage to resources that no one has bothered regulating yet. From waste dumping post manufacturing to carbon footprint tracking, biodegradability, water usage, and probably a gazzillion other examples, there is a lot we turn a blind eye to as a society and as consumers. And that's not by accident - the capitalistic system is built to reward finding legislative loopholes (among other things). Don't get me wrong, I am not a card carrying commie. I think capitalism has been a good system on overall balance between pros and cons, but the engineer in me refuses to believe that we're past making improvements and now should hold the system in its present form sacred.</p>\n<p>Long story short - \"the growth mindset\" will be the death of us all, unless we do some regulation of how much or how easily a company can bother a consumer. Or maybe not. But right now, it is the wild west and I'm tired of being shot at by every gunslinger in town. Can someone just make it stop? I don't know if the definition of growth has changed in the last decade or if I have regressed to a more reclusive state of mind. Like most rhetorical questions, it is probably both.</p>",
+            "image": "https://abhishekchoudhary.com/blog/media/posts/17/Untitled-design.jpg",
+            "author": {
+                "name": "Abhishek Choudhary"
+            },
+            "tags": [
+                   "Rant",
+                   "Product Management",
+                   "Life",
+                   "Growth",
+                   "Advice"
+            ],
+            "date_published": "2022-07-21T19:18:37-04:00",
+            "date_modified": "2022-07-21T19:18:37-04:00"
+        },
+        {
             "id": "https://abhishekchoudhary.com/blog/transcript-of-my-interview-with-pminterviewin.html",
             "url": "https://abhishekchoudhary.com/blog/transcript-of-my-interview-with-pminterviewin.html",
             "title": "Transcript of my interview with pminterview.in ",
@@ -27,8 +47,8 @@
                    "Book recommendations",
                    "Advice"
             ],
-            "date_published": "2022-02-21T21:32:32+05:30",
-            "date_modified": "2022-02-21T21:40:19+05:30"
+            "date_published": "2022-02-21T13:02:32-03:00",
+            "date_modified": "2022-02-21T13:10:19-03:00"
         },
         {
             "id": "https://abhishekchoudhary.com/blog/new-favourite-quote.html",
@@ -50,8 +70,8 @@
                    "Decisions",
                    "Beijing"
             ],
-            "date_published": "2022-02-21T09:32:28+05:30",
-            "date_modified": "2022-02-21T14:50:20+05:30"
+            "date_published": "2022-02-21T01:02:28-03:00",
+            "date_modified": "2022-02-21T06:20:20-03:00"
         },
         {
             "id": "https://abhishekchoudhary.com/blog/druk-driving.html",
@@ -79,8 +99,8 @@
                    "Bengal",
                    "Adventure"
             ],
-            "date_published": "2021-12-31T22:39:57+05:30",
-            "date_modified": "2022-02-21T22:10:09+05:30"
+            "date_published": "2021-12-31T14:09:57-03:00",
+            "date_modified": "2022-02-21T13:40:09-03:00"
         }
     ]
 }
